@@ -1,0 +1,45 @@
+.footer-container{
+    background-color:lightgreen;
+    height:20vh;
+}
+.footer-row-container{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+
+}
+.flower-image{
+width: 55px;
+height: 76px;
+top: 21px;
+left: 16px;
+gap: 0px;
+opacity: 0px;
+margin:20px;
+
+}
+.follow-us-container{
+    display:flex;
+    flex-direction:column;
+
+}
+.follow-us-heading{
+    font-family: 'Roboto';
+    font-size:30px;
+    font-weight: bold;
+    text-align: center;
+    color:rgb(233, 233, 122);
+}
+.social-media-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.icons-image{
+    width: 200px;
+height: 36px;
+gap: 0px;
+opacity: 0px;
+
+}
